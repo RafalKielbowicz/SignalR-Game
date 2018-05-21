@@ -1,0 +1,11 @@
+c:\users\rafał\source\repos\SignalRDrawing\SignalRDrawing\bin\Debug\netcoreapp2.0\SignalRDrawing.deps.json
+c:\users\rafał\source\repos\SignalRDrawing\SignalRDrawing\bin\Debug\netcoreapp2.0\SignalRDrawing.runtimeconfig.json
+c:\users\rafał\source\repos\SignalRDrawing\SignalRDrawing\bin\Debug\netcoreapp2.0\SignalRDrawing.runtimeconfig.dev.json
+c:\users\rafał\source\repos\SignalRDrawing\SignalRDrawing\bin\Debug\netcoreapp2.0\SignalRDrawing.dll
+c:\users\rafał\source\repos\SignalRDrawing\SignalRDrawing\obj\Debug\netcoreapp2.0\SignalRDrawing.csprojResolveAssemblyReference.cache
+c:\users\rafał\source\repos\SignalRDrawing\SignalRDrawing\obj\Debug\netcoreapp2.0\SignalRDrawing.csproj.CoreCompileInputs.cache
+c:\users\rafał\source\repos\SignalRDrawing\SignalRDrawing\obj\Debug\netcoreapp2.0\SignalRDrawing.AssemblyInfoInputs.cache
+c:\users\rafał\source\repos\SignalRDrawing\SignalRDrawing\obj\Debug\netcoreapp2.0\SignalRDrawing.AssemblyInfo.cs
+c:\users\rafał\source\repos\SignalRDrawing\SignalRDrawing\bin\Debug\netcoreapp2.0\SignalRDrawing.pdb
+c:\users\rafał\source\repos\SignalRDrawing\SignalRDrawing\obj\Debug\netcoreapp2.0\SignalRDrawing.dll
+c:\users\rafał\source\repos\SignalRDrawing\SignalRDrawing\obj\Debug\netcoreapp2.0\SignalRDrawing.pdb

@@ -1,0 +1,50 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<html>
+    <head>
+        <link rel="stylesheet" href="~/css/site.css" />
+    </head>
+    <body>
+        <div class="paint">
+            <div class="paint-bar">
+                <input type="color" id="color" value="#000000" />
+
+                <input type="button" class="btn btn-danger" id="clear" value="Clear" />
+            </div>
+            <div>
+                <canvas id="draw-canvas" height="500" width="800"></canvas>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">&nbsp;</div>
+            <div class="row">
+                <div class="col-6">&nbsp;</div>
+                <div class="col-6">
+                    User..........<input type="text"  id="userInput" />
+                    <br />
+                    Message...<input type="text" id="messageInput" />
+                    <input type="button" id="sendButton" class="btn btn-primary" value="Send Message" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <hr />
+                </div>
+            </div>
+                <div>
+                    <div class="col-6">&nbsp;</div>
+                    <div class="col-6" style="height:150px; overflow-y: auto; display: flex; flex-direction: column-reverse; border:solid">
+                        <ul id="messagesList"></ul>
+                    </div>
+                </div>
+        </div>
+        <script src="~/lib/signalr.js"></script>
+        <script src="~/js/draw.js"></script>
+    </body>
+</html>
+    
+
+    
